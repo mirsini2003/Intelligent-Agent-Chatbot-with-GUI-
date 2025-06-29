@@ -40,4 +40,11 @@ Safe environment variable management – solved using python-dotenv
 Concurrency issues with TTS and user interaction – addressed with threading
 Finding an affordable/open LLM – resolved with OpenRouter + Mistral-7B  
 
+## Contact:  
+**Email:** mirsini.kafetsi@gmail.com  
+**LinkedIn:** linkedin.com/in/myrsini-kafetsi  
+
+Developed for the course: Intelligent Agents,
+Department of Informatics, University of Piraeus
+
 
